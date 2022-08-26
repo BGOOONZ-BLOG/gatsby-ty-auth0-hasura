@@ -1,5 +1,7 @@
-# gatsby-starter-typescript-auth0-hasura
-##### A Gatsby starter in TypeScript for authenticating via Auth0 and using the JWT with Hasura over GraphQL
+# gatsby -typescript-auth0-hasura
+
+
+### [WEBSITE](https://gatsbytyauth0hasura.gtsb.io/)
 
 Although there are plenty of Gatsby+Hasura and Gatsby+Auth0 tutorials out there, at the time of writing all were out of date and using old patterns with deprecated libraries.
 
@@ -56,8 +58,3 @@ Rename `.env.example` to `.env.development` and update accordingly
 | GATSBY_AUTH0_REDIRECT_URI | `http://localhost:8000`                         |
 | GATSBY_AUTH0_AUDIENCE     | `https://<my-tenant-name>.us.auth0.com/api/v2/` |
 
-
-
-### Contribute
-
-Please help us keep this starter up to date and adhering to best practices and conventions. We are not veterans in the space and appreciate any contributions or suggestions on how things can be done better. Feel free to submit an issue, pull request or reach out: *hello* at *whitebrick* dot *com*
